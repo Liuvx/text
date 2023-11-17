@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "gui.h": "c",
+        "main.h": "c",
+        "pid_v.h": "c",
+        "openmv.h": "c",
+        "control.h": "c",
+        "stdio.h": "c"
+    }
+}
